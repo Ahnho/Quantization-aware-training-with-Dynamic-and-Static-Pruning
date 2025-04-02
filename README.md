@@ -1,6 +1,10 @@
 # Quantization-aware training with Dynamic and Static Pruning
 
-This repository contains the official PyTorch implementation for Quantization-aware training with Dynamic and Static Pruning.
+[Link](https://ieeexplore.ieee.org/document/10946020)
+
+This repository provides the code for the IEEE Access 2025 paper titled Quantization-aware training with Dynamic and Static Pruning (QADS) by S. An, J. Shin, and J. Kim,.
+
+
 
 ![QADS](img/QADS.png)
 
